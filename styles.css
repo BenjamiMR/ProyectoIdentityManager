@@ -1,0 +1,15 @@
+body{
+    border: brown;
+    border-style: double;
+    border-width: 3px;
+    
+}
+p{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+}
+h1{
+    color: white;
+    font-style: italic;
+}
